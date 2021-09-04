@@ -22,7 +22,7 @@
 						<div class="inner">
 							<header>
 								<h1><a href="index.html" id="logo">I'm Chloe</a></h1>
-								<hr />
+								
 								<p>Do you want to know me?</p>
 							</header>
 							<footer>
@@ -37,20 +37,19 @@
 						<h2>Hello. My name is <strong>Chloe</strong>.</h2>
 						<p>
 							I'm working as a  <strong>Creative</strong> </a>
-							in <a href="http://apple.com/kr">Apple Yeouido Store.
-						</p>
-					</p></p></p>
+							in <a href="http://apple.com/kr">Apple Yeouido Store.</a>
+						<p>
 						<a href="#" class="vedio featured">
 							<video src="./images/movie.MOV"
 		                    width="800px"
 	                     	height="500px"
 	                     	controls
 	                    	autoplay
-		
+                        
 	                        ></video>
 
-	</header>
-				</section>
+	                      </header>
+				       </section>
 
         
 						
@@ -64,93 +63,92 @@
 							<a href="#" class="image featured"><img src="images/01.JPG" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">Shall we dive in togetehr?</a></h3>
-					
+                            </header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/02.jpg" style="max-width: 100%; height: 100%x" ;alt="" /></a>
 							<header>
 								<h3><a href="#">Everybody can be a Model.</a></h3>
-						
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/03.jpg" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">Sphero is my friend.</a></h3>
-							
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/04.png" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">Where everyone is welcome </a></h3>
-						
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/05.jpg" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">Inspire customer's creativity </a></h3>
-					
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/06.JPG" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">That is Apple's Ecosystem. </a></h3>
-						
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/07.jpg" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">Do you mind if I win? </a></h3>
-				
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/08.jpg" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#"> Welcome to Today at Apple! </a></h3>
-				
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/09.jpg" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">You can keep my signature:) </a></h3>
-					
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/10.jpg" style="max-width: 100%; height: 100%" ; alt="" /></a>
 							<header>
 								<h3><a href="#">We are connected! </a></h3>
-					
+								</header>
 						</article>
 						
 						<article>
 							<a href="#" class="image featured"><img src="images/11.png" style="max-width: 100%; height: 100%" ;alt="" /></a>
 							<header>
 								<h3><a href="#">[NPI] What a exiciting! </a></h3>
-			
+								</header>
 						</article>
 
-						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/13.gif" style="max-width: 100%; height: 250px" ; alt="" /></a>
 							<header>
 								<h3><a href="#">Give me all, please..</a></h3>
-						
+								</header>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/14.jpg" style="max-width: 100%; height: 250px" ; alt="" /></a>
 							<header>
 								<h3><a href="#">I love my Airtag! </a></h3>
-				
+								</header>
 						</article>
 					</div>
 				</section>
@@ -167,14 +165,14 @@
 								
                                 I have worked inspire others and create a collaborative atmosphere. 
 								It was able to unlocking my colleagues creativity and these experiences could inspire customers on the floor. 
-								In a short time, I completed with 100% participation with all team members. 
+								In a short time, I completed with 100% participation with all team members.
 				
 							</p>
 						</p>
 						<footer>
 							<a href="#" class="button">Watch Video on Loop</a>
-						</br>
-							&emsp; 
+                        </footer>
+                        &emsp;
 
 
 							<p>
@@ -184,10 +182,10 @@
 									<a href="#" class="image featured"><img src="images/pic02.png" alt="" /></a>
 									<header>
 										<h2><a>Grand opening of Apple Yeouido </a></h2>
-										<p>	
-											To celebrate and to give our customer exceptional memory in our store, </br> the Forum team had been taking customer's picture with Apple Yeouido logo.
-										</p>
-							</p>		
+									<p>	
+										To celebrate and to give our customer exceptional memory in our store, </br> the Forum team had been taking customer's picture with Apple Yeouido logo.
+									</p>
+								
 						</footer>
 					</article>
 				</div>
@@ -198,8 +196,8 @@
 					<section id="features" class="container special">
 						<header>
 							<h2>Taking Picture can capture the moment. </h2>
-							<p>Especillay, I love taking picture of nature with my iPhone.</br> 
-								Do I love travelling? More than anyone! </p>
+							<p> Especillay, I love taking picture of nature with my iPhone.</br> 
+								Do I love travelling? More than anyone!</p>
 						</header>
 						<div class="row">
 							<article class="col-4 col-12-mobile special">
